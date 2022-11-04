@@ -20,7 +20,7 @@
 <h3 align="center"> Accounts </h3>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/ifrizul-hanif-muhammad-13a85a12a/">
+<a href="https://www.linkedin.com/in/ifrizul-hanif">
 <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="https://instagram.com/ryuinferno">
